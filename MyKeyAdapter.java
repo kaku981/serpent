@@ -1,0 +1,6 @@
+/**
+ * MyKeyAdapter
+ */
+public class MyKeyAdapter {
+
+}
