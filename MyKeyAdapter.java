@@ -1,6 +1,0 @@
-/**
- * MyKeyAdapter
- */
-public class MyKeyAdapter {
-
-}
